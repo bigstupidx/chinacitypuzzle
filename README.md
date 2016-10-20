@@ -27,7 +27,12 @@ Unity5.4.0
 
 open in unity
 
-open Assets/Scenes/Title.unity
+[File] -> [BuildSettings]->[Add Open Scenes]
+Add all of the scene in the Assets/Scenes/ 
+
+Select Assets/Scenes/Title.unity
+
+Push play button
 
 ## Installation
 
