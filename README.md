@@ -27,6 +27,8 @@ Unity5.4.0
 
 open in unity
 
+open Assets/Scenes/Title.unity
+
 ## Installation
 
     $ git clone https://github.com/pieeel/chinacitypuzzle.git
